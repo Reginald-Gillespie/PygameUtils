@@ -1,4 +1,4 @@
-. # PygameUtils
+# PygameUtils
 Place for me to save useful pygame stuff
 
 <br>
